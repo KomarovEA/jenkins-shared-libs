@@ -1,3 +1,3 @@
 def call(text){
-    echo ${text}
+    echo "${text}"
 }
